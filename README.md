@@ -6,6 +6,10 @@
 
 ### In the future I plan to advance this concept by enabling the eyes to blink on click. I could also use this project as a launching point for creating a Galaga inspired game.
 
-### To run this project, fork this repository, download the folder locally, and open the index.html in your browser.
+#### To run this project: 
+
+#### From GitHub: fork this repository, download the folder locally, and open the index.html in your browser.
+
+#### From RWGregory.github.io, simply click here to open the project in a new tab.
 
 <img src= "oneeye.png" width='300'/>
